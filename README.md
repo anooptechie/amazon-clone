@@ -2,4 +2,4 @@
 <br>
 Author - Anoop
 <br>
-Amazon clone replica
+Amazon clone seplica
